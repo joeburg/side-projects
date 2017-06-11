@@ -1,0 +1,84 @@
+AA	
+AA0		'africa' AE1 F R IHO K AAO
+AA1		'man' M AA1 N
+AA2		'afterall' AE1 F T ER0 AA2 L
+AE
+AE0		'acknowledge' AE0 K N AA1 L IHO JH
+AE1		'after' AE1 F T ER0
+AE2		'aquiesce' AE2 K W IY0 EH1 S
+AH		
+AH0		'aquire' AH0 K W AY1 ER0
+AH1		'adjust' AH0 JH AH1 S T
+AH2		'touch'  T AH2 CH
+AO		
+AO0		'albeit' AO0 L B IY1 IH0 T
+AO1		'albany' AO1 L B AH0 N IY0
+AO2		'all' AO2 L
+AW
+AW0		'hounds' HH AW0 N D Z
+AW1		'blouse' B L AW1 S
+AW2		'out' AW2 T
+AY		
+AY0 	'allies' AE1 L AY0 Z
+AY1		'right' R AY1 T
+AY2		'time' T AY2 M
+B		
+CH
+D
+DH		'worthy' W ER2 DH IY0
+EH		
+EH0		'dress' D R EH0 S
+EH1		'gem' JH EH1 M
+EH2		'annex' AE1 N EH2 K S 
+ER
+ER0		'anger' AE1 NG G ER0
+ER1		'assert' AH0 S ER1 T
+ER2		'worth' W ER2 TH
+EY
+EY0		'maker' M EY0 K ER0		
+EY1		'brace' B R EY1 S
+EY2		'way' W EY2
+F
+G
+HH		'ham' HH AH0 M
+IH		
+IH0		'breading' B R EH1 D IH0 NG 
+IH1		'brick' B R IH1 K
+IH2		'stick' S T IH2 K
+IY
+IY0		'bubbly' B AH1 B L IY0
+IY1		'see' S IY1
+IY2		'tree' T R IY2
+JH		'ridge' R IH2 JH
+K		
+L
+M
+N
+NG		'brewing' B R UW1 IH0 NG
+OW
+OW0		'bravo' B R AA1 V OW0
+OW1		'bro' B R OW1
+OW2		'load' L OW2 D
+OY
+OY0		'invoice' IH1 N V OY0 S
+OY1		'join' JH OY1 N 
+OY2		'point' P OY2 N T
+P
+R
+S
+SH		
+T
+TH
+UH
+UH0 	'foot' F UH0 T
+UH1		'woman' W UH1 M AH0 N
+UH2		'wormwood' W ER1 M W UH2 D
+UW
+UW0		'costumer' K AA1 S T UW0 M ER0
+UW1		'cougar' K UW1 G ER0
+UW2		'courtroom' K AO1 R T R UW2 M
+V
+W
+Y
+Z
+ZH		'cartesian' K AA0 R T IY1 ZH AH0 N

@@ -1,0 +1,9 @@
+mass: 48.0
+Nparticles: 64
+length: 4.2323167
+temp0: 0.728
+h: 0.01
+Nsteps: 100
+inputfile:
+savefreq: 10
+outputfile: solution??????.vtk

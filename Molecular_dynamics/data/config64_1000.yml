@@ -1,0 +1,10 @@
+datatype: double
+mass: 48.0
+Nparticles: 64
+length: 4.2323167
+temp0: 0.728
+h: 0.01
+Nsteps: 1000
+inputfile: 
+savefreq: -1
+outputfile: solution??????.vtk

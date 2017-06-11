@@ -1,0 +1,20 @@
+Classes:
+MatSci 202
+MatSci 210
+
+Tags:
+cardiology 
+neuroscience
+electroplating
+sem 
+tem
+stm
+afm
+conductive afm
+xps
+microvasculature 
+vascular mechanics 
+thermal evaporation
+ald
+lithography
+stanford 

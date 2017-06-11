@@ -1,0 +1,615 @@
+• Absolute Zero
+The lowest theoretical temperature, at which entropy reaches its minimum value. At this point, all the molecular activity ceases to continue. The absolute temperature is 0 K= -273.16° C
+• Abzyme
+A molecule that has an ability to catalyze a chemical reaction by binding and stabilizing the state of transition of an intermediate compound that is selected to carry out a biological reaction is known as an abzyme (antibody + enzyme). It is also called catalytic monoclonal antibody (catmab).
+• Acceleration (a)
+The rate at which velocity vector changes with time, is known as acceleration. Acceleration (unit) = meter/second2. Also check out Angular Acceleration
+• Achondrite
+The stony meteorites without chondrules, that have undergone changes due to melting, are known as achondrites.
+• Active Matrix
+Laptop computer flat-panel displays are made by laying diodes over a superfine grid of wires. Current is applied to various points around the grid to activate the diodes. When enough of these dots are connected, an image is formed. The transistors used active matrix displays to keep their diodes in an on and off state. This different from the passive matrix displays that rely on the diodes persistence The active matrix displays are brighter and produce better color quality as compared to the passive matrix displays. Know more on How Does a Diode Work
+• Agarose Gel Electrophoresis
+Highly purified form of agar gelled into a matrix to separate large DNA and RNA molecules that range from over 20,000 nucleotides. Know more on Difference Between DNA and RNA.
+• Alternative mRNA Splicing
+The inclusion or exclusion of different sequences of DNA to form different mRNA transcripts is known as alternative mRNA splicing. Know more on DNA Translation.
+• Anesthesiology
+The branch of medical science that studies and applied anesthetics.
+• Analog
+When the behavior of one corresponds to the behavior of something else continuously rather than in steps. The signals to a composite monitor from computer are known as analog voltages.
+• Applet
+The small program that is written in Java programming language and was designed to provide interactivity on web pages.
+• Application
+A program that is designed to perform specific tasks is known as an application. Internet explorer, Adobe Photoshop are some popular applications.
+• Application Server
+The sole responsibility of running specific applications within the network lies with a specialized server that is based in a client/server network is known as application server.
+• Argument of Perihelion
+The measurement of an angle along the orbit of a planet or other solar system object from the ascending node is known as argument of perihelion. It corresponds to right ascension and longitude.
+• Arithmetic Logic Unit (ALU)
+This is the mathematical core circulatory that mathematically and logically calculates the results of binary data and is applied to all the central processing units (CPU) in computers. Know more on Binary Numbers.
+• Abiotic stress
+The non-living environmental factors like drought, extreme cold, heat, high winds that has negative effect on the organisms in a specific environment is known as the abiotic stress.
+• Anaerobe
+The organisms that thrive and grow in
+an anaerobic environment or environment without oxygen is known as anaerobe.
+
+Top
+B
+• Bacteriology
+The branch of science under microbiology that studies unicellular, microscopic organisms known as bacteria.
+• Bandwidth
+It is the measurement calculated in bits per second, to know the amount of data that can be sent through a connection.
+• Biostasis
+A state in which the cell's and tissue structure of an organism are preserved so that they can be restored again with the help of cell repair machines.
+• Bernoulli Effect
+Also known as Venturi effect, means that decrease in the pressure of fluid increases the velocity of the fluid. The Bernoulli's principle and the equation of continuity form the basis of Bernoulli's effect.
+• Biovorous
+An organism that can convert biological material into energy for sustenance is known as a biovorous organism.
+• Biology
+The science which deals with the study of living organisms is known as biology. It is derived from the Greek word bios meaning 'life' and logia that means 'study of'. Know more on Glossary of Biology Terms and Definitions.
+• Black Hole
+Black hole is an area in space that has a very powerful gravitational field. There is nothing in this universe not even light that can escape from the pull of a black hole. These black holes may be stars that have collapsed after the end of their lives. It is known as black as the hole reflects nothing and is similar to the black-body in thermodynamics.
+• Blue Shift
+The lines of spectrum shift towards the shorter wavelengths (increase in frequency) when an object moves towards the observer. This shorten wavelength shifts towards the blue side of the electromagnetic spectrum. This is known as blue shift.
+• Bluetooth
+The connection of electronic devices with the help of radio technology is known as Bluetooth. The Bluetooth provides a range of up to 10 meters without the help of cables to connect devices that are lined up. Know more on How Does Bluetooth Work?.
+• Bose Condensate
+A Bose condensate is a rare phase of matter where a large percentage of bosons collapse into their lowest quantum state. Thus, allowing observation of the quantum effects on a macroscopic scale. The bosons tend collapse in this state in extremely low temperature, that nears the value of absolute zero. Bose condensate is also known as Bose-Einstein condensate (BEC). Know more on Bose-Einstein Condensate.
+• Botany
+The science which deals with the study of plants is known as botany. Refer Glossary of Botanical Terms
+• Bremsstrahlung
+When a fast charged particle like an electron slows down as it passes to matter. Thus, loses energy in the form of electromagnetic radiation. This is known as Bremsstrahlung. This is a German word that means 'breaking radiation'. Know more on Types of Radiation.
+• Buffer
+An aqueous solution of weak acid and its conjugate acid or weak base and its conjugate acid is known as buffer solution. The buffer solution is used to maintain the pH value constant in many chemical applications.
+• Buoyancy
+The upward force that is exerted by a fluid on a body in it is known as buoyancy. In other words it is the ability of a body to float in fluid it is suspended in.
+• Buccal Cavity
+The first part of the alimentary also known as the mouth is called the buccal cavity. This portion receives the food and begins digesting the food by mixing saliva with food.
+
+Top
+C
+• Carbohydrates
+The essential structural component of all living cells and also the main source of energy for animals is known as carbohydrates. They include simple sugars with small molecules as well as macromolecular substances. Carbohydrates are classified according to the number of monosaccharide groups contained by them. Know more on Types of Carbohydrates.
+• Celestial Body
+A solid object that is present in space is known as celestial body. These celestial bodies are visible from the sky.
+• Celsius
+A type of scale that is used to measure temperature. The values on this scale are 0° C to the freezing point of water and 100° C to the boiling point of water at standard pressure.
+• Central Processing Unit (CPU)
+The heart of a computer that interprets and carries out instructions, performs numeric computations and controls all the peripherals attached to it using a microprocessor chip is known as central processing unit or the CPU. Know more on History of Computer Processor.
+• Chemistry
+The branch of science that studies the natural sciences which deal with the composition of substances, their properties and their chemical reactions with one another is called chemistry. It is derived from the Egyptian word keme that means 'earth'. Know more on Glossary of Chemistry Definitions.
+• Chondrule
+The small spherical objects that are found in meteorites are called chondrules. The majority of chondrules contain olivine and pyroxene with little amounts of glass and iron-nickel metal.
+• Circuit
+A closed path within which the electric current flows is known as the circuit. Know more on circuit breaker panel.
+• Coma
+The tail made of gases and dust particles that surrounds a comet is known as coma. It is made by the vaporization of the nucleus due to which jets of gas and dust are released.
+• Comet
+It is the icy body that contain a solid nucleus made of water and other dark organic compounds orbiting the Sun. As the comets gets closer to the Sun the nucleus vaporizes forming a 'coma'. Know more on Comet Facts.
+• Cryobiology
+The branch of science that deals with the study of life under low temperature conditions. The word is derived from a Greek word cryo that means cold, bios that means 'life' and logos meaning 'science'. Know more on Low Body Temperature.
+• Current (I)
+It is the rate of flow of electric charge calculated as I = coulombs/second. Know more on Current Transformer Design.
+• Cyberspace
+The term is used to describe the wide range of informational resources that are available through computer networks. This term was originally coined by author William Gibson in his novel Neuromancer. Know more on Cyber Bullying.
+• Cyclic Redundancy Checksum (CRC)
+A redundancy check by a cyclic algorithm generating a check key. The sending and receiving stations are checked after a block check character is accumulated. Know more on Cyclic Redundancy Check Error.
+• Cytology
+The branch of science under life science that deals with the study of cell structure, function and chemistry is called cytology.
+• Cytosol
+The liquid made from complex mixture of substances dissolved in water that is present inside the cells of organisms is called cytosol. Know more on Cell Nucleus Structure and Functions.
+
+Top
+D
+• Dalton
+The unit of measurement to express the atomic and molecular mass is known as Dalton (Da). One dalton is approximately equals to the mass of one proton or one neutron, similar to the weight of hydrogen. Know more on John Daltons Atomic Theory.
+• Dark Matter
+When current instruments cannot detect matter, but its existence is inferred by its gravitational interactions, it is known as dark matter.
+• Decible
+The unit of measurement to estimate the loudness or volume of sound waves is known as decible.
+• Deoxyribonucleic Acid (DNA)
+The nucleic acid molecule that contains all the genetic information regarding the development and functioning of all living organisms is known as deoxyribonucleic acid. DNA is also known as the blueprint of life. It was discovered by James Watson and Francis Crick in 1953, as the double stranded molecule containing even the minutest of information regarding the building of an organisms.
+• Density Gradient Centrifugation
+The centrifugation that is carried out at a very high speed, wherein the molecules 'float' at a point. This floating point occurs at a point when the molecule density is equal to the gradient of cesium chloride or sucrose.
+• Dependent Variable
+Two related variable that are dependent on each other are known as dependent variables. The variables that are free to roam are known as independent variables. The independent variable and dependent variables are plotted against each other in a two dimensional graph when carrying out a scientific experiment. The vertical axis of the graph is used to plot the dependent variable.
+• Diffraction
+The change in path of wave due to an obstacle is known as diffraction.
+• Diode
+An electrical device that allows current to flow in a single direction through it is known as a diode. It is a two terminal device having a P-N junction. It is represented by an arrow (← / → ) indicating the direction of flow of electric charge in a circuit diagram. Know more on Types of Diodes.
+• Diurnality
+The characteristic behavior exhibited by majority of animals that remain active during the day and sleep at night.
+• Distributed Network
+This is an effective process in which a network uses multiple locations. A specific job is taken care of each node present in the network instead of using an individual machine processor.
+• Distance
+An undefined quantity in physics that is used to measure two separate points. Know more on Metric Measurements Units and Conversions.
+• Doppler Shift
+The relative motion between the source and the observer that causes a change in observed frequency is known as Doppler shift.
+• Dust (cosmic, interstellar)
+Tiny particles that are just a few angstroms in size produced by the supernovae explosions and asteroid collisions are known as the cosmic or interstellar dust.
+• Dynamo
+This is a device that is used to create electricity by turning around a magnet near a wire coil. Know more on Relationship Between Magnetism and Electricity.
+
+Top
+E
+• Einstein Cosmological Constant (Lambda)
+The supposed repulsion force value that is may contribute to the expansion of universe and first predicted by Einstein in 1917 is known as Einstein Cosmological Constant. During this period, the universe was thought to be constant and it was predicted that it may one day collapse under its own gravity. It was later proven to be expanding constantly. Einstein had stated the lambda as his biggest error.
+• Electron Transport Chain
+The chemical reaction in which an electron donor and an electron acceptor is coupled to transfer H+ ions across a membrane with the help of some intermediate of biochemical reactions is known as the electron transport chain.
+• Elasticity
+The physical property of a substance according to the science of physics that can return to its original shape after undergoing a stress that leads to deformity of its original shape. The best example of elasticity is exhibited by rubber.
+• Electric Current
+The measurement of movement of electricity in charges per second is known as electric current.
+• Electromagnetic Waves
+The wave of energy that have a frequency within the electromagnetic spectrum and are propagated as a periodic disturbance of the electromagnetic field, when an electric charge oscillates or accelerates are called electromagnetic waves. Infrared, radio waves, microwaves, gamma rays, X-rays are forms of electromagnetic radiations that are detected by specific instruments. They are described in terms of wavelength (L). The unit of measurement for electromagnetic waves includes meters (m), frequency (f) and hertz (Hz). Know more on Properties of Electromagnetic Waves.
+• Electron-positron Annihilation
+The collision of an electron and its anti-particle, a positron, leads to emission of gamma-ray photons of each with an energy of 511 keV that leads to their annihilation. This is known as electron-positron annihilation.
+• Electronvolt (eV)
+An Electronvolt is the unit of measurement of the energy that is acquired by an electron in falling through a potential difference of one volt.
+• Electroporation
+The increase in electric conductivity of the cell plasma membrane that is caused with the help of electric current that is externally applied is known as electroporation or electropermeabilization.
+• Embryology
+The study of development of an embryo is called embryology.
+• Endocytosis
+The process of absorption of molecules present outside the cells by the method of engulfment with the cell membrane is known as endocytosis.
+• Ethernet
+The original 10-megabit/second local area network, later increased to 100 gigabits/second, connecting the host with a coaxial cable developed by Xerox is called Ethernet. The transmission conflicts are minimized by backing off and re-sending later.
+• Equation
+The mathematical definition of an equation states that it is an equality of two expressions that are written in a linear manner. The expressions are represented by symbols and are separated into left and right sides that is joined by an equal to (=) sign. Equation is defined as a representation of chemical reaction written in a linear array with symbols and quantities of the reactants. The reactants and products are separated with an equal (=) sign, an arrow (← /→ ) or a set of opposing arrows ( < ━ > ). Know more on Types of Chemical Reactions.
+• Extended Memory
+The memory that expands upon a DOS systems existing convectional memory is known as extended memory. The Intel PC above 1MB were given the name extended memory. One should not confuse the extended memory with expanded memory. The term is today non-existent in the computer world since the barrier of 1 MB has been crossed.
+• Extinction
+The death of the last surviving individual of a species that results in total annihilation of the entire group of taxa is known as extinction. The best example of extinction is dinosaurs.
+• Extreme Ultraviolet (EUV)
+The spectrum between the ultraviolet and X-ray regions is known as extreme ultraviolet (EUV). It is observed in the region of spectrum between 10-100 nm. Know more on Cosmic Rays-Detection and Composition.
+
+Top
+F
+• Facula
+The bright spot or region on the Sun's photosphere is known as facula. The largest faculae are seen near the Sunspots. Know more on What are Sunspots.
+• Fahrenheit
+The scale of measurement of temperature where the water freezes at 32° F and the boiling point of water is 212° F at standard pressure.
+• Fecundity
+The ability of an organism to breed is known as fecundity
+• Fischer-Tropsch process
+The set of reactions in which organic molecules like carbon monoxide and hydrogen are converted into liquid hydrocarbons is known as Fischer-Tropsch reaction (or Fischer-Tropsch synthesis).
+• Filament
+A filament is the dark streak that is visible against the bright disc of Sun, appearing like a bright stream of plasma in the solar corona. It looks appears like it is radiating away from the Sun when observed off the solar limb.
+• Free Electron Laser
+The tunable laser that is made by wiggling a beam of electrons is known as the Free Electron Laser (FEL). Know more on Laser.
+• Freeze
+The state of solidification of a liquid when it reaches its freezing point is known as freeze.
+• Frequency
+The number of full cycles performed by an oscillating wave in a second is known as frequency.
+• Friction
+The force of resistance that develops when two objects rub against each other is known as friction.
+• Fundamental Particles
+The particles like leptons, quarks and gauge bosons that do not contain a smaller component are known as fundamental particles.
+
+Top
+G
+• Gametes
+The spermatozoa and the ova that carry genes donated from both parents is known as gametes.
+• Gauge Bosons
+The intermediate particles that help transfer energy between protons, gravitons, W and Z particles are known as gauge bosons.
+• Gene amplification
+The increase in number of DNA sequences in vivo by inserting cloning vectors in a host cell is known as gene amplification or DNA amplification. Polymerase chain reaction(PCR) is also used as in vitro procedure to amplify DNA.
+• Geography
+The study of surface of the earth and its inhabitants is known as geography. Know more on Geography Terms.
+• Geology
+The study of earth's crust, that is, the solid and liquid matter form the Earth is known as geology. Know more on Glossary of Geology Terms and Definitions.
+• Geotropism
+The growth movement of a plant or fungus towards gravity is known as geotropism. There are two types of geotropisms positive geotropism that is exhibited by the roots and negative geotropism shown by stems.
+• Germanium Detector
+The detection of powerful radiation like gamma rays can be detected using the instrument like germanium detector.
+• Gigabytes
+One gigabyte is equal to 1,024 megabytes. Gigabyte is often represented as 'G' or 'GB'
+• Gigapascal (GPa)
+The unit of pressure that is used to measure the deep Earth. Gigapascal is measured as 1 GPa= 10 kilobars= 10,000 times air pressure at sea level.
+• Gluons
+The particles that help hold quarks together are known as gluons.
+• Globular Clusters
+A group of thousands to millions of old stars is known as globular cluster. These old stars that are help together in orbit by their own mass and are arranged in a spherical cluster. Know more on Prostar.
+• Gravity
+The physical force that is exerted on all masses and is proportional to the mass of an object is known as gravity.
+• Ground Tissue
+The simple non-meristematic tissues in plants that are made up of 3 cell types like parenenchyma, collenchyma and sclerenchyma are known as ground tissue. These usually form the pith, cortex or the mesophyll. Know more on Plant Cell Structure and Parts.
+
+Top
+H
+• Hadrons
+The particles that interact with a strong force are known as hadrons. All hadrons are quark composites. Baryons and mesons make up the two sub-sets of hadron.
+• Hertzsprung-Russell (HR) diagram
+The scatter graph of stars that explains the relationship between the absolute magnitudes of stars. The luminosity of the stars increases logarithmically up the vertical axis of the graph. Increase in temperature is plotted in increasing order from left to right on the horizontal axis.
+• Hesperian Epoch
+Three broad time periods or epochs are used to explain the geologic history of the planet Mars. The oldest one being the Noachin, followed by Hesperian and Amazonian. The Hesperian Epochis known to extend from about 3.5 to 1.8 billion years ago.
+• Heterochromatin
+The tightly packed DNA form which has limited transcription ability is known as heterochromatin.
+• HiggsBoson
+The massive scalar elementary particle predicted and studied by the Standard Model in particle physics is known as the Higgs Boson.
+• Highland Soil
+The sediments found on lunar highland surface, that are composed of broken rocks and mineral fragments is known as the highland soil.
+• HTML
+HTML is a programming language that is used for designing static web pages. The collection of structuring and formatting tags that are used to create Web pages. HTML is the abbreviation for Hyper Text Markup Language. Know more on List of All HTML Tags.
+• Hubble Constant
+The measure of rate at which the Universe expands is known as the Hubble Constant.
+• Hubble Law
+The phenomenon that galaxies tend to move away from each other and the farther away they are, the faster they are separated is known as Hubble Law. The velocities of these galaxies increases proportionally to their distance. This phenomenon was discovered by US astronomer Edwin T. Hubble in 1929.
+• Hubble Space Telescope
+The space telescope that was carried into orbit by space shuttle is called Hubble Space Telescope. It was taken into orbit in April 1990. Hubble telescope is used to observe the Universe in wavelength ranging from ultraviolet to infrared.
+• Hyperpolarization
+The change in a cell's membrane potential, due to the efflux of K+ channels or the influx of Cl- through the Cl- channels, that makes it negative is known as hyperpolarization.
+• Hypertext
+The mark-up language that leads to non-linear transfers of data is known as hypertext. World Wide Web is the most commonly used form of hypertext.
+• Hypothesis
+A tentative explanation based on facts, observation and incomplete evidence to explain a concept that is yet not verified is known as hypothesis.
+
+Top
+I
+• Impact
+When a body like meteorite forcefully strikes another body like moon or a planet it is known as impact.
+• Immortalizing Oncogene
+The growth of a primary cell that grows indefinitely in a culture due to transfer of a gene that is known as immortalizing oncogene.
+• Independent Variable
+The variable among two related variables that can roam freely is known as independent variable. The other variable that is dependent on the former, is known as dependent variable.
+• Indicator
+The substance that exhibits one color in acids and another color when added to an alkali is known as indicator. This helps to determine whether a liquid is an acid or a base/alkali.
+• Induction
+When an object having magnetic or electrical properties produces similar properties in another object near it is known as induction.
+• Inertia
+A bodies tendency to remain at rest or stay in motion unless it is acted upon by an external force is known as inertia.
+• Infrared Light
+The light that has wavelength longer than that of visible light is called infrared. This light is measured from the nominal edge of visible red light at 0.74 micrometers (µ m), and can extend= conventionally to 300 µ m. This light is invisible to the human eye. It can be sensed as 'heat' or thermal radiation'. Read more on Infrared Light Theraphy.
+• Inositol Lipid
+The conversion of hormonal signals by stimulation of the release of any of the several chemical messengers by a membrane-anchored phospholipid. This phospholipid is known as inositol lipid.
+• Insulator
+A material through which electricity or heat cannot flow easily is known as an insulator.
+• Intensity Branching (%)
+It is the intensity of a radiation that is emitted during a radioactive decay. Know more on Meaning of radioactive Decay.
+• Interferometer
+The measuring device where the electromagnetic radiation is split and recombined after traveling through different path lengths such that the beams interfere and produce an interference pattern.
+• Internet
+The super network that connects smaller networks and allows different computers to exchange information is called Internet. There are a common set of rules known as protocols that are to be followed by all computers for communication. These set of protocols are called Transmission Control Protocol (TCP) or Internet Protocol(IP). Know more on Basic Internet Terms and Terminology
+
+Top
+J
+• Jejunum
+The mid-section of the small intestine of many higher vertebrates like mammals, birds, reptiles is called jejunum. It is present between the duodenum and the ileum.
+• Joule
+It is a unit of energy that is equal to 0.239 calorie.
+
+Top
+K
+• Karyokinesis
+The process of change that occurs during the division of a cell nucleus at mitosis or meiosis is called karyokinesis
+• Keratins
+The fibrous structural proteins that are tough and insoluble found in reptiles, birds, amphibians and mammals is known as keratin.
+• Kelvin
+The fundamental unit of temperature that is not calibrated in terms of boiling point and freezing point of water but energy. 0 K is equal to the lowest temperature known as absolute zero. The freezing point of water on the Kelvin scale is -273 K and boiling point of water is 373 K.
+• Kuiper Belt
+The spherical region of the outer solar system that has a population of 'ice dwarfs' is known as the Kuiper Belt. Know more on Facts About Dwarf Planets.
+• Kinetic Energy
+The amount of work that is required to accelerate a body of given mass from its state of rest to its current velocity is known as kinetic energy. A body maintains its kinetic energy gained, till there is change is speed. Read more on Electrokinetics.
+
+Top
+L
+• Lagrangian Points
+The gravitational forces of three different massive bodies exactly cancel each at points that are known as Lagrangian points.
+• Lambda Phage
+The virus particle that infects Eisherichia coli, is known as lambda phage. A lambda phage has a head, tail and tail fibers. The head of a lambda phage contains double-stranded DNA that is injected into the host bacteria for further replication to produce more phages.
+• Leukocytes
+The white blood cells of the immune system, that defend the body against infectious diseases and foreign materials are known as leukocytes.
+• Light
+The electromagnetic radiation that can be detected by the human eye is known as light.
+• Lightning
+The powerful flash of electricity that is due to the negative electrical charges in clouds or between the cloud and ground is known as lightning. Know more on Different Types of Lightning.
+• Light Year
+The distance traveled by light through space in one year, that is, 1 light year = 9.4605284 × 1015 meters, is known as light year.
+• Luminosity
+The radiation amount that is emitted by a star or celestial object at a given time is known as luminosity. Know more on Why Do Stars Twinkle.
+
+Top
+M
+• Mach Number
+The ratio of fluid speed to sound speed in that fluid is known as Mach Number. If the fluid is moving at a supersonic speed, the Mach number is greater than 1. In case the fluid is moving at hypersonic speed is greater than 5.
+• Magnetism
+The force exerted by electric current on other electric currents is known as magnetism. Know more on History of Magnetism.
+• Magnetic Field
+The region near a magnet that is influenced by the forces given off by the magnet is known as magnetic field.
+• Media
+The substances through which the movement of light takes place like air, water, glass, etc. are known as media.
+• Mathematics
+The branch of science that studies the quantity, structure, space and change is known as mathematics. It includes use of abstraction and logical reasoning. Know more on Math Terms - Glossary of Math Terms and Definitions.
+• Meteor Shower
+A group of meteors that are seen in the same part of sky and which occur over a period of few days or few hours is known as meteor shower. Know more on Meteor Shower.
+• Meson
+The particles that are made of a quark and an anti-quark that are thought to bind protons and neutrons together inside the nucleus are known as mesons. Know more on Parts of an Atom.
+• Microbiology
+The branch of science that studies the life cycle and effects of microscopic organisms in the environment and other living creatures invisible to the naked eye is known as microbiology. Know more on Microbiology Glossary.
+• Microgravity
+When in space, the near-weightlessness experienced by a person or object in free fall is known as microgravity.
+• Milky Way
+Our galaxy is observed as a misty band of light stretching across a night sky due to which it is known as milky way. There are one hundred million stars in our milky way. Know more on Facts About The Milky Way.
+• Modem
+The change of data from digital, that is, computer language, into analog, that is phone line language, and then turning back into digital is known as a modem. Modem is made by joining two words, 'Mo'dulation and 'De'modulation. Know more on What is the Function of a Modem.
+• Momentum
+The product of mass and velocity is known as momentum. In other words, it is the speed or force of a moving object.
+• Mutagenesis
+The process through which the genetic information of an organism is changed naturally or experimentally by using chemicals or radiation is known as mutagenisis.
+
+Top
+N
+• Nanosecond
+It is a billionth of a second. The speed of memory chips and other computer operations are measured in nanoseconds (ns).
+• Nebula
+The cloud of dust and gas in space is known as nebula. Know more on Horsehead Nebula
+• Network
+A computer system that receives and sends data is known as network.
+• Nerve
+The bundle of peripheral axons that provides a pathway for the passage of electrochemical nerve impulses transmitted along each of the axons is known as nerves. Know more on Pheripheral Nervous System.
+• Nervous System
+A network of specialized cells that help an organism communicate information about the surroundings and thus react accordingly is known as nervous system. Know more on Structure and Function of Nervous System.
+• Neutron Star
+The endpoint of the life of a massive star that explodes into a supernova that consists of mainly neutrons is known as neutron star. Know more on What Are Stars Made Of.
+• Nitrocellulose
+The membrane that helps immobilize DNA, RNA or protein that can be probed with a labeled sequence or antibody is known as nitrocellulose. Know more on DNA Extraction.
+• Nitrogenous Bases
+The purines, that is, adenine and guanine and the pyrimidines, that is, thymine, cytosine and uracil, that make up a DNA and RNA molecules are known as nitrogenous bases. Know more on Functions of Mitochondrial DNA.
+• Nocturnal
+The group of animals that remain active during the night and sleep during the day are known as nocturnal. There are many species of plants that flower during the night instead of day. These are known as nocturnal plants. Know more on Facts About Nocturnal Animals.
+• Northern Blotting
+The procedure where RNA fragments are transferred from an agarose gel to a nitrocellulose filter. This is where the RNA is hybridized to a radioactive probe. This procedure is also known as Northern Hybridization.
+• Nova
+A sudden increase in the brightness of a star by a factor of more than hundred is known as nova. Know more on Supernova.
+• Nuclear Physics
+The branch of science that studies the nucleus of an atom is known as nuclear physics. It is a subfield of quantum physics.
+• Nuclease
+The enzymes that degrade the DNA/ RNA molecules are known as nuclease. The nuclease enzymes cleave the phoshodiester bonds that link adjacent nucleotides of a DNA / RNA molecule. Know more on DNA Transcription.
+• Nuclein
+It is the material described by Friedrich Miescher in 1869, now known as DNA.
+
+Top
+O
+• Occulation
+When an astronomical object completely or partially eclipses another astronomical object it is known as occulation. Read more on Total Solar Eclispse and Origin of Life.
+• Okazaki Fragment
+The short DNA fragment with an RNA primer at the 5' terminus that is created on the lagging strand during DNA replication is known as Okazaki fragment.
+• Oncogene
+A gene that is mutated or inappropriately expressed, that leads to cancer is known as oncogene.
+• Opposition
+The point where a planet that is far away from the Sun than the Earth, lines up with Sun and Earth is known as opposition. Opposition is the point when the planet is closest to Earth.
+• Optical Light
+The light that is detected by the human eye having a wavelength of 4000 and 7000 angstroms is known as optical light. Read more on Causes of Optical Illusions.
+• Organelle
+A cell structure that helps carry out the important functions in the life of a cell is known as an organelle. Know more on Structure and Functions of Cytoplasm.
+• Osmoregulation
+The osmotic pressure of the fluids inside an organism, that is actively regulated to maintain homeostasis of the organism's water content is known as osmoregulation. It helps prevent the organisms fluids from becoming too dilute or too concentrated.
+• Ovulation
+The process of menstruation cycle in females, in which the mature ovarian follicle ruptures to discharge an ovum or egg to participate in reproduction is known as ovulation.
+• Oxygenated Blood
+Blood that supplies oxygen bound to hemoglobin that is carried in red cells to the various tissues, and cells of the body is known as oxygenated blood. The heart pumps out the oxygenated blood through the important artery known as coronery artery. Read more on Anatomy of Coronary Artery.
+
+Top
+P
+• Parasitism
+The close association of dissimilar organism in which the association proves to be harmful to at least one organism is known as parasitism.
+• Particle
+A very small piece of an indivisible object is known as particle. Read more on How Does the Collison Theory Work.
+• Pedigree
+The diagrammatic mapping of the genetic history of a particular family of organism is known as pedigree.
+• Period
+The time interval occurring between two consecutive and similar phases of a regularly occurring event is known as period. The rotation of Earth is the time taken to complete one revolution is an example of period.
+• Peripheral
+The external devices like printers, disk drives, display monitors, keyboards, mouse, etc. that are attached to a computer are known as peripherals.
+• Petrology
+The branch of science under geology that studies the origin, occurrence, formation, structure and composition of mineral assemblages and classification of rocks is known as petrology.
+• Phobia
+The anxiety disorder exhibited by a person that is related to extreme and irrational fear of simple things or social situations is known as phobias. Know more on List of All Phobias and Their Meanings.
+• Phosphatase
+The enzyme that hydrolyzes esters of phosphoric acid by removing phosphate group are known as phosphatase.
+• Phosphodiester Bond
+A phosphate group joined with the adjacent carbons through easter linkages is known as phosphodiester bond.
+• Physics
+The branch of science that studies matter and energy and its motion and interactions and all that is derived from it like force is known as physics. Know more on Physics Formulas List.
+• Pith
+The soft, spongy substance consisting of parenchymatic cells present in the center of the stem in eudicots and the center of roots in monocots is known as pith.
+• Planck's Constant
+It is the constant which decides the size of the photon, which is a quantum of electromagnetic radiation. This constant also decides the limits of accuracy with which any two complementary quantities can be measured. Planck's Constant is equal to 6. 6.62606957(29)× 10 -34 Joule seconds.
+• Planck's Law
+Planck's law exactly describes the amount of electromagnetic energy with a particular wavelength radiated by a black body in thermal equilibrium.
+• Planet
+The large, spherical body made of rocks and ice orbiting the Sun or another star is known as planet.
+• Plasma
+The extremely hot matter found in or near stars that contains more or less equal number of positively charged ions and negatively charged electrons is known as plasma.
+• Plumes
+The hot, feather-like rising gas in the atmosphere of a star or planet that is due to convection is known as plumes.
+• Pon
+The structure located on the brain stem, above the medulla, below the mid brain and anterior to the cerebellum in humans and other bipeds, is known as pon. Know more on Facts on Human Brain.
+• Potential Energy
+The mechanical energy of a body that is unused or stored, when the body is at rest is known as potential energy (P.E). Know more on Types of Energy
+• Power (P)
+The amount of work carried out per second is known as power. The amount of power transmitted electrically is the product of voltage (V) with current (I). Know more on What is BHP (Brake Horsepower)?
+• Psychology
+The branch of science that deals with the science and study of mental life. Psychology is the only science without a specific definition.
+• Pulsar
+A rotating star or a pair of stars that emit electromagnetic radiation characterized by rapid frequency and regularity is known as pulsar. Know more on What is Electromagnetic Energy.
+
+Top
+Q
+• Quantum Theory
+The theory that states that energy can only be absorbed or radiated in discrete values or quanta. Quantum theory is extended to all particles. Know more on Basics of Quantum Mechanics for Dummies.
+• Quark
+An elementary particle that is thought to be the fundamental structural unit from which all particles are made. Up, down, strange, charm, top and bottom are six types of quarks.
+• Qualitative
+This is scientific observation that is not based measurements and numbers. Know more on Methods of Qualitative Research.
+• Quantitative
+The scientific observations that are based on measurements and numbers. Read more on How to Write a Good Research Methodology.
+
+Top
+R
+• Radiation
+The heat transfer between two bodies without change in the temperature of the intervening medium is known as radiation. Radiation is also the release of energy from a source.
+• Radioactivity
+The spontaneous decay of atomic nuclei is known as radioactivity. During radioactivity, alpha particles, beta-rays and gamma rays are emitted. Know more on List of Radioactive Elements.
+• Recombinant DNA
+The DNA that us created by combination of DNA sequences that do not occur naturally is known as recombinant DNA.
+• Red Giant
+An old star that uses up all the hydrogen present in its nucleus to keep shining is known as Red Giant. The star uses hydrogen instead of other elements present.
+• Refraction
+The bending or deflection of a wave path of light or sound when passing through one medium to another, is known as refraction.
+• Relativity
+The relative values of time, motion, mass and energy of a body in motion is known as relativity. Know more on What is Einsteins Theory of Relativity.
+• Resonance
+The vibrations of a substance corresponding to the air vibrations that make sound is known as resonance.
+• Retrograde
+The motion of a planet or the Solar System body in a clockwise direction is known as retrograde.
+• Revolution
+The rotation of a planet around the Sun through 360 degrees or a full circle is known as revolution. Know more on How was the Sun formed.
+• Rhesus Factor
+The 5 antigens, namely C, c, D, E and e that are found on the surface of red blood cells is known as Rhesus factor. The antigen that is commonly referred as Rh factor, Rh positive and Rh negative is Rh D antigen only. It is named after the Rhesus Macaque, after discovery of the factor by Karl Landsteiner and Alexander Wiener using red blood cells from rhesus monkey. Know more on Rare Blood Types
+• Ribonucleic Acid (RNA)
+The biological molecule that contains long chains of nucleotide units of a nitrogenous base, a ribose sugar and a phosphate is known as Ribonucleic acid. RNA is single stranded molecule with ribose, unlike DNA that is double stranded with deoxyribose. Another difference between a DNA and RNA molecule is presence of base uracil instead of thymine in RNA.
+• Rotation
+The act of a mass of body moving in a circle around its axis or fixed point is known as rotation.
+
+Top
+S
+• Satellite
+A natural celestial body that revolves around a larger celestial body is called satellite. For example, the Moon is a satellite of Earth.
+• Scalar
+A quantity that can defined only by its magnitude like energy, temperature is known as scalar.
+• Sea of Serenity
+The maria on the Moon's nearside known as Mare Serenitatis. Know more on Facts about the Moon.
+• Sea of Tranquility
+Also known as Mare Tranquillitatis, was the landing site of Apollo 11 on the Moon on 20th July 1969. Know more on Geology of the Moon's Surface.
+• Sinus venosus
+The large quadrangular cavity that is present before the atrium on the venous side of the chordate heart, is known as sinus venosus.
+• Solar Flare
+The sudden violent explosion on the surface of the Sun above the complex active regions of photosphere is known as solar flare.
+• Solar System
+The Sun and the nine planets namely Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto, along with their 60 moons, the asteroid belt, the comets and Kuiper belt is known as the Solar System.
+• Southern Blotting
+The procedure in which DNA restriction fragments are transferred from agarose gel to a nitrocellulose filter, where the denatured DNA is hybridized to a radioactive probe. This process is also known as Southern Hybridization.
+• Static Electricity
+The electricity that is produced by friction is known as static electricity. Know more on Static Electricity.
+• Super Conductivity
+The flow of electricity without any resistance at certain temperatures near absolute zero in certain temperatures is known as super conductivity. Read more on Superconductivity: Still Resisting Change.
+• Synergism
+The result obtained with the help of two agents that work together which could not have been possible by independent agents is known as synergism.
+• Syngamy
+The sexual reproduction by the union of gametes or fertilization is known as syngamy. Know more on Different Stages in the Process of Meiosis.
+• Synteny
+The state where two or more genes are located on the same chromosome even though there may or may not be any demonstrable linkage between them is known as synteny.
+• Synapsis
+When crossing over occurs during the pairing of homologous chromosome pairs during prophase of the first meiotic division is known as synapsis.
+
+Top
+T
+• Taq Polymerase
+The DNA polymerase isolated from the bacterium Therrnus aquaticus that is heat stabel and used in PCR is known as Taq polymerase.
+• TATA Box
+The sequence of adenine-thymine rich promoter located 25-30 bp upstream of a gene that is the binding site of RNA polymerase is known as TATA box.
+• Template
+The synthesis of a complementary nucleotide strand on an RNA or single stranded DNA molecule is known as a template.
+• Terminator Codon
+The three mRNA sequences (UGA,UAG,UAA) that do not code for an amino acid are known as terminator codons. These codons also known as 'stop codon' are a signal to the end of protein synthesis.
+• Thermal Gradient
+The rate at which there is change in temperature with position is known as thermal gradient. Know more on Thermocouple
+• Time
+The fourth coordinate along with three spatial dimensions needed to specify an event is known as time. Know more on Does the Fourth Dimension of Time Exist
+• Titan
+The largest moon of Saturn is known as Titan. It is the second largest moon of the Solar System after Ganymede, the moon of Jupiter.
+• Torque
+The bodies tendency to rotate under an applied force is known as Torque. Know more on How Does a Torque Converter Work
+• Trypsin
+The proteolytic enzyme that hydrolyzes peptide bonds present on the carboxyl end of the amino acids arginine and lysine is known as trypsin. Read more on Benefits of Digestive Enzymes.
+• Tumor
+The abnormal growth of cells that causes swelling or lesion is known as tumor. A tumor can be malignant or benign. One should not confuse cancer with tumor as cancer means malignant.
+• Turbine
+The device with a rotor that is turned by the force of a moving fluid like water, gas or wind that converts kinetic energy into mechanical energy is known as turbine.
+• Tympanic Membrane
+The thin membrane separating the inner ear from the middle ear is known as tympanic membrane or eardrum.
+• Typhlosole
+The internal fold of the intestine's inner wall is known as typhlosole.
+
+Top
+U
+• Ubiquitin
+A small 76-amino acid, highly conserved protein found in the cytoplasm and the nucleus of all eukaryotes is called ubiquitin.
+• Ultra Luminous Galaxies (ULIRG)
+The type of galaxy that appears too bright when observed at infrared wavelengths is known as ultra luminous galaxies.
+• Ultraviolet Light
+The region of the electromagnetic spectrum ranging from 9.12 nm to 350 nm is known as ultraviolet light. UV rays are emitted from the Sun which are blocked by the Earth's atmosphere. Know more on Layer's of Earth Atmosphere.
+• Universe
+The totality of everything that exists is known as Universe. This everything includes energy, matter, stars, the planets, galaxies, and the contents of intergalactic space. Know more on How was Universe Created.
+• Uncertainty
+The fundamental law of nature which makes it impossible to know where something is and where it is going is known as uncertainty. It has a major influence on quantum theory.
+• UPS
+A back-up power unit that can provide continuous power when the normal power supply is interrupted is called UPS. It is abbreviation for Uninterruptible Power Supply. Know more on Uninterruptible Power Supply
+• Uterus
+The reproductive sex organ in the female human body that where the fetus develops during gestation is called uterus.
+
+Top
+V
+• Vacuum
+It is the space that is completely devoid from any matter.
+• Vector
+The geometric object in mathematics, physics and engineering that can be defined using both magnitude/length and direction is known as vector.
+• Velocity
+The rate of change of position is called velocity. This is a physical quantity that needs speed and direction to define it. Read more on How to Increase Throwing Velocity.
+• Virus
+A microscopic infectious agent that has the ability to reproduce only in a host cell is called a virus. A virus in the world of computers is a computer program can infect a computer without the users knowledge or permission and copy itself, just like the biological agent. Know more on MSRA Virus.
+• Viscera
+The internal organs of animals and humans especially the thorax and abdominal region is known as viscera.
+• Vitamins
+The organic compound that is required as a nutrient by an organism and is often obtained from its diet is known as vitamins. The deficiency of vitamins can cause many diseases and illness in the organism.
+• Viroid
+The plant pathogen consisting of 250-350 nucleotides of a naked RNA molecule, whose extensive base pairing results in a nearly correct double helix is called viroid.
+• Viability
+The ability of an organism to complete its life cycle and survive till maturity is known as viability.
+• VoIP
+It is the network that allows real time conversation by sending digital voice information in packet form over the Internet . It does not use the traditional circuit committed protocol that is used by public telephone networks. VoIP stands for Voice Over Internet Protocol. Know more on Benefits of VoIP.
+
+Top
+W
+• Watt
+The unit of power in SI unit system is called a watt. It is equal to 1 joule per second.
+• Wavelength
+The distance between two peaks of a wave is known as wavelength. Know more on Electromagnetic Waves- Origin and Theory.
+• Weight
+The gravitational force exerted on an object is known as weight.
+• Western Blot
+The process to detect specific proteins in a sample of tissue extract by gel electrophoresis is known as Western Blot.
+• White Light
+The light that can be seen by the human eye that is made up of seven colors is known as white light. Know more on Color Spectrum Chart.
+• Work
+The movement of an object due to pushing or pulling is called work. There is increase in energy of the object due to work.
+
+Top
+X
+• X- chromosome
+The sex-determining chromosome in mammals and other animal species is known as X chromosome. The XX chromosome is a pair of 23 homologous pairs of chromosomes in a female. Know more on Interesting Facts about Fragile X Syndrome.
+• X- linked Disease
+The mutation on X-chromosome that causes a genetic disease is called X-linked disease. Know more on Facts About Human Chromosomes
+• X- band
+The radio frequency band that extends from 5200 to 10900 MHz. Know more on Radio Frequencies.
+• X- Ray
+The electromagnetic radiations that lie between ultraviolet and gamma rays with a wavelength of 0.01-10 nm is called X-rays.
+• X-ray Crystallography
+The diffraction pattern seen after passing X-rays through a pure crystal substance is called X-ray crystallography. Read more on Crystal Symmetries: Base of Crystallography.
+
+Top
+Y
+• Y-chromosome
+The sex-determining chromosome in mammals and other animal species is known as Y chromosome. The XY chromosome contains SRY gene that triggers the development of the embryo as a male. Know more on Inherited Genetic Disorders.
+• Yolk
+The part of an egg that helps in feeding the embryo as it develops in an egg.
+• Yellow fever
+The transmission of acute viral disease by the bite of Aedes aegypti mosquito is known as yellow fever.
+
+Top
+Z
+• Z-DNA
+The region of DNA that has a left-handed helix with alternating purines and pyrimidines that may be a site for a DNA-binding protein is known as Z-DNA. Know more on Structure of Mitochondrial DNA.
+• Zoology
+The branch of science under biology that studies the structure, function, behavior and evolution of animals is known as zoology. Know more on Zoology Glossary.
+Read more at Buzzle: http://www.buzzle.com/articles/science-glossary-of-science-terms-and-scientific-definitions.html

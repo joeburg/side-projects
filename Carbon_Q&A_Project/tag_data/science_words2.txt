@@ -1,0 +1,26 @@
+Abiosis, Abrade, Absorption, Acceleration, Accumulation, Acid, Acidic, Activist, Adaptation, Agonistic, Agrarian, Airborne, Alchemist, Alignment, Allele, Alluvial, Alveoli, Ambiparous, Amphibian, Amplitude, Analysis, Ancestor, Anodize, Anomaly, Anther, Antigen, Apiary, Apparatus, Application, Approximation, Aquatic, Aquifer, Arboreal, Archeology, Artery, Assessment, Asteroid, Atmosphere, Atomic, Atrophy, Attenuate, Aven, Aviary, Axis
+B)	Bacteria, Balance, Bases, Biome, Biosphere, Black hole, Blight, Buoyancy
+C)	Calcium, Canopy, Capacity, Capillary, Carapace, Carcinogen, Catalyst, Cauldron, Celestial, Cells, Centigrade, Centimeter, Centrifugal, Chemical reaction, Chemicals, Chemistry, Chlorophyll, Choked, Chromosome, Chronic, Churn, Classification, Climate, Cloud, Comet, Composition, Compound, Compression, Condensation, Conditions, Conduction, Conductivity, Conservation, Constant, Constellation, Continental, Convection, Convention, Cool, Core, Cosmic, Crater, Creature, Crystals, Cycle, Cytoplasm
+D)	Dampness, Data, Decay, Decibel, Deciduous, Defoliate, Density, Denude, Dependency, Deposits, Depth, Desiccant, Detritus, Development, Digestible, Dilute, Direction, Disappearance, Discovery, Dislodge, Displace, Dissection, Dissolution, Dissolve, Distance, Diurnal, Diverse, Doldrums, Dynamics
+E)	Earthquake, Eclipse, Ecology, Ecosystem, Electricity, Elements, Elevation, Embryo, Endangered, Endocrine, Energy, Entropy, Environment, Enzyme, Epidermis, Epoch, Equilibrium, Equine, Erosion, Essential, Estuary, Ethical, Evaporation, Event, Evidence, Evolution, Examination, Existence, Expansion, Experiment, Exploration extinction, Extreme
+F)	Facet, Fault, Fauna, Feldspar, Ferment, Fission, Fissure, Flora, Flourish, Flowstone, Foliage, Food chain, Forage, Force, Forecast, Forensics, Formations, Fossil fuel, Frequency, Friction, Fungi, Fusion
+G)	Galaxy, Gastric, Geo-science, Geothermal, Germination, Gestation, Global, Gravitation, Green, Greenhouse effect, Grotto, Groundwater
+H)	Habitat, Heat, Heavens, Hemisphere, Hemoglobin, Herpetologist, Hormones, Host, Humidity, Hyaline, Hydrogen, Hydrology, Hypothesis
+I)	Ichthyology, Illumination, Imagination, Impact, Impulse, Incandescent, Indigenous, Inertia, Inevitable, Inherit, Inquiry, Insoluble, Instinct, Instruments, Integrity, Intelligence, Interact, Interdependence, Interplanetary, Invertebrate, Investigation, Invisible, Ions, Irradiate, Isobar, Isotope
+J)	Joule, Jungle, Jurassic, Jutting
+K)	Kilometer, Kinetics, Kingdom, Knot
+L)	Laser, Latitude, Lava, Lethal, Life, Lift, Light, Limestone, Lipid, Lithosphere, Load, Lodestone, Luminous, Luster
+M)	Magma, Magnet, Magnetism, Mangrove, Mantle, Marine, Marsh, Mass, Matter, Measurements, Mechanical, Meiosis, Meridian, Metamorphosis, Meteor, Microbes, Microcosm, Migration, Millennia, Minerals, Modulate, Moisture, Molecule, Molten, Monograph, Monolith, Motion, Movement, Mutant, Mutation, Mysterious
+N)	Natural, Navigable, Navigation, Negligence, Nervous system, Nesting, Neutrons, Niche, Nocturnal, Nuclear energy, Numerous, Nurture
+O)	Obsidian, Ocean, Oceanography, Omnivorous, Oolites (cave pearls), Opaque, Orbit, Organ, Organism, Ornithology, Osmosis, Oxygen
+P)	Paleontologist, Parallax, Particle, Penumbra, Percolate, Permafrost, Permutation, Petrify, Petrograph, Phenomena, Physical property, Planetary, Plasma, Polar, Pole, Pollination, Polymer, Population, Precipitation, Predator, Prehensile, Preservation, Preserve, Pressure, Primate, Pristine, Probe, Process, Propagation, Properties, Protected, Proton, Pulley
+Q)	Qualitative data, Quantum, Quark, Quarry
+R)	Radiation, Radioactivity, Rain forest, Ratio, Reaction, Reagent, Realm, Redwoods, Reeds, Reflection, Refraction, Relationships, Reptile, Research, Resistance, Resonate, Rookery, Rubble, Runoff
+S)	Salinity, Sandbar, Satellite, Saturation, Scientific investigation, Scientist, Sea floor, Season, Sedentary, Sediment, Sedimentary, Seepage, Seismic, Sensors, Shard, Similarity, Solar, Soluble, Solvent, Sonic, Sound, Source, Species, Spectacular, Spectrum, Speed, Sphere, Spring, Stage, Stalactite, Stalagmites, Stimulus, Substance, Subterranean, Sulfuric acid, Surface, Survival, Swamp, Sylvan, Symbiosis, Symbol, Synergy, Synthesis
+T)	Taiga, Taxidermy, Technology, Tectonics, Temperate, Temperature, Terrestrial, Thermals, Thermometer, Thrust, Torque, Toxin, Trade winds, Transformation tremors, Tropical
+U)	Umbra, Unbelievable, Underwater, Unearth, Unique, Unite, Unity, Universal, Unpredictable, Unusual, Ursine
+V)	Vacuole, Valuable, Vapor, Variable, Variety, Vast, Velocity, Ventifact, Verdant, Vespiary, Viable, Vibration, Virus, Viscosity, Visible, Vista, Vital, Vitreous, Volt, Volume, Vulpine
+W)	Wave, Wax, Weather, Westerlies, Wetlands, Whitewater
+X)	Xeriscape, Xylem
+Y)	Yield
+Z)	Zero-impact, Zone, Zygote

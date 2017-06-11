@@ -1,0 +1,46 @@
+Classes:
+MatSci 202
+MatSci 203
+MatSci 204
+MatSci 205
+MatSci 206
+MatSci 207
+MatSci 208
+MatSci 303
+MatSci 331
+
+Tags:
+materials science
+molecular modeling
+molecular dynamics
+hybrid materials
+organic/inorganic glasses
+zrgptms
+sic
+solar materials
+c60
+graph theory
+percolation theory
+parallel computing
+computer cluster
+theoretical physics
+applied mathematics
+pagerank
+molecular pagerank
+python
+matlab
+mathematica
+stanford
+electroplating
+irox
+cardiovascular
+pcba
+9m
+molecular
+dynamics
+want
+know
+nanoindentation
+talk
+am
+someone

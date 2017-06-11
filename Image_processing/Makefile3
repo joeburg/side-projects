@@ -1,0 +1,13 @@
+CXX = g++
+CXXFLAGS = -O3 -std=c++11 -g -Wall -Wextra -Wconversion
+LDFLAGS = -ljpeg
+
+TARGET = main
+OBJS = main.cpp image.cpp assignment6.cpp
+INCS = image.hpp assignment6.hpp
+
+$(TARGET): $(OBJS) $(INCS)
+	$(CXX) $(CXXFLAGS) -o $(TARGET) $(OBJS) $(LDFLAGS)
+	
+run: $(TARGET)
+	./$(TARGET)

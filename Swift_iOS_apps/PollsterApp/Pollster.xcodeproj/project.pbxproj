@@ -1,0 +1,362 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BA516A441E037221007552FD /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA516A431E037221007552FD /* CloudKit.framework */; };
+		BA516A461E0374E4007552FD /* AllQandAsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA516A451E0374E4007552FD /* AllQandAsTableViewController.swift */; };
+		BA5EE7EF1DFE1BCB009E1542 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5EE7EE1DFE1BCB009E1542 /* AppDelegate.swift */; };
+		BA5EE7F41DFE1BCB009E1542 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA5EE7F21DFE1BCB009E1542 /* Main.storyboard */; };
+		BA5EE7F61DFE1BCB009E1542 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA5EE7F51DFE1BCB009E1542 /* Assets.xcassets */; };
+		BA5EE7F91DFE1BCB009E1542 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA5EE7F71DFE1BCB009E1542 /* LaunchScreen.storyboard */; };
+		BA5EE8051DFE1CFD009E1542 /* CloudKitExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5EE8011DFE1CFD009E1542 /* CloudKitExtensions.swift */; };
+		BA5EE8061DFE1CFD009E1542 /* QandAAccessoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5EE8021DFE1CFD009E1542 /* QandAAccessoryTableViewController.swift */; };
+		BA5EE8071DFE1CFD009E1542 /* QandATableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5EE8031DFE1CFD009E1542 /* QandATableViewController.swift */; };
+		BA5EE8081DFE1CFD009E1542 /* TextTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5EE8041DFE1CFD009E1542 /* TextTableViewController.swift */; };
+		BA5EE80A1DFE1DCF009E1542 /* CloudQandATableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5EE8091DFE1DCF009E1542 /* CloudQandATableViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		BA516A431E037221007552FD /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
+		BA516A451E0374E4007552FD /* AllQandAsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AllQandAsTableViewController.swift; sourceTree = "<group>"; };
+		BA5EE7EB1DFE1BCB009E1542 /* Pollster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pollster.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA5EE7EE1DFE1BCB009E1542 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BA5EE7F31DFE1BCB009E1542 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BA5EE7F51DFE1BCB009E1542 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BA5EE7F81DFE1BCB009E1542 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BA5EE7FA1DFE1BCB009E1542 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA5EE8011DFE1CFD009E1542 /* CloudKitExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CloudKitExtensions.swift; sourceTree = "<group>"; };
+		BA5EE8021DFE1CFD009E1542 /* QandAAccessoryTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QandAAccessoryTableViewController.swift; sourceTree = "<group>"; };
+		BA5EE8031DFE1CFD009E1542 /* QandATableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QandATableViewController.swift; sourceTree = "<group>"; };
+		BA5EE8041DFE1CFD009E1542 /* TextTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextTableViewController.swift; sourceTree = "<group>"; };
+		BA5EE8091DFE1DCF009E1542 /* CloudQandATableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CloudQandATableViewController.swift; sourceTree = "<group>"; };
+		BA9C480F1E036B8300165007 /* Pollster.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Pollster.entitlements; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BA5EE7E81DFE1BCB009E1542 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BA516A441E037221007552FD /* CloudKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BA5EE7E21DFE1BCB009E1542 = {
+			isa = PBXGroup;
+			children = (
+				BA5EE7ED1DFE1BCB009E1542 /* Pollster */,
+				BA5EE7EC1DFE1BCB009E1542 /* Products */,
+				BA9C48101E036B9300165007 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		BA5EE7EC1DFE1BCB009E1542 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BA5EE7EB1DFE1BCB009E1542 /* Pollster.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BA5EE7ED1DFE1BCB009E1542 /* Pollster */ = {
+			isa = PBXGroup;
+			children = (
+				BA9C480F1E036B8300165007 /* Pollster.entitlements */,
+				BA5EE7EE1DFE1BCB009E1542 /* AppDelegate.swift */,
+				BA5EE7F21DFE1BCB009E1542 /* Main.storyboard */,
+				BA516A451E0374E4007552FD /* AllQandAsTableViewController.swift */,
+				BA5EE8091DFE1DCF009E1542 /* CloudQandATableViewController.swift */,
+				BA5EE8001DFE1BFB009E1542 /* Supporting Files */,
+			);
+			path = Pollster;
+			sourceTree = "<group>";
+		};
+		BA5EE8001DFE1BFB009E1542 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BA5EE8011DFE1CFD009E1542 /* CloudKitExtensions.swift */,
+				BA5EE8021DFE1CFD009E1542 /* QandAAccessoryTableViewController.swift */,
+				BA5EE8031DFE1CFD009E1542 /* QandATableViewController.swift */,
+				BA5EE8041DFE1CFD009E1542 /* TextTableViewController.swift */,
+				BA5EE7F51DFE1BCB009E1542 /* Assets.xcassets */,
+				BA5EE7F71DFE1BCB009E1542 /* LaunchScreen.storyboard */,
+				BA5EE7FA1DFE1BCB009E1542 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BA9C48101E036B9300165007 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BA516A431E037221007552FD /* CloudKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BA5EE7EA1DFE1BCB009E1542 /* Pollster */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BA5EE7FD1DFE1BCB009E1542 /* Build configuration list for PBXNativeTarget "Pollster" */;
+			buildPhases = (
+				BA5EE7E71DFE1BCB009E1542 /* Sources */,
+				BA5EE7E81DFE1BCB009E1542 /* Frameworks */,
+				BA5EE7E91DFE1BCB009E1542 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Pollster;
+			productName = Pollster;
+			productReference = BA5EE7EB1DFE1BCB009E1542 /* Pollster.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BA5EE7E31DFE1BCB009E1542 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0810;
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = "Joe Burg";
+				TargetAttributes = {
+					BA5EE7EA1DFE1BCB009E1542 = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = L236MX3JC6;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Push = {
+								enabled = 1;
+							};
+							com.apple.iCloud = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = BA5EE7E61DFE1BCB009E1542 /* Build configuration list for PBXProject "Pollster" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BA5EE7E21DFE1BCB009E1542;
+			productRefGroup = BA5EE7EC1DFE1BCB009E1542 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BA5EE7EA1DFE1BCB009E1542 /* Pollster */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BA5EE7E91DFE1BCB009E1542 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BA5EE7F91DFE1BCB009E1542 /* LaunchScreen.storyboard in Resources */,
+				BA5EE7F61DFE1BCB009E1542 /* Assets.xcassets in Resources */,
+				BA5EE7F41DFE1BCB009E1542 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BA5EE7E71DFE1BCB009E1542 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BA5EE8081DFE1CFD009E1542 /* TextTableViewController.swift in Sources */,
+				BA5EE80A1DFE1DCF009E1542 /* CloudQandATableViewController.swift in Sources */,
+				BA5EE8051DFE1CFD009E1542 /* CloudKitExtensions.swift in Sources */,
+				BA5EE8071DFE1CFD009E1542 /* QandATableViewController.swift in Sources */,
+				BA5EE7EF1DFE1BCB009E1542 /* AppDelegate.swift in Sources */,
+				BA516A461E0374E4007552FD /* AllQandAsTableViewController.swift in Sources */,
+				BA5EE8061DFE1CFD009E1542 /* QandAAccessoryTableViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		BA5EE7F21DFE1BCB009E1542 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BA5EE7F31DFE1BCB009E1542 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		BA5EE7F71DFE1BCB009E1542 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BA5EE7F81DFE1BCB009E1542 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BA5EE7FB1DFE1BCB009E1542 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BA5EE7FC1DFE1BCB009E1542 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BA5EE7FE1DFE1BCB009E1542 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Pollster/Pollster.entitlements;
+				DEVELOPMENT_TEAM = L236MX3JC6;
+				INFOPLIST_FILE = Pollster/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Joe.Burg.Projects.Pollster;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		BA5EE7FF1DFE1BCB009E1542 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Pollster/Pollster.entitlements;
+				DEVELOPMENT_TEAM = L236MX3JC6;
+				INFOPLIST_FILE = Pollster/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Joe.Burg.Projects.Pollster;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BA5EE7E61DFE1BCB009E1542 /* Build configuration list for PBXProject "Pollster" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BA5EE7FB1DFE1BCB009E1542 /* Debug */,
+				BA5EE7FC1DFE1BCB009E1542 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BA5EE7FD1DFE1BCB009E1542 /* Build configuration list for PBXNativeTarget "Pollster" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BA5EE7FE1DFE1BCB009E1542 /* Debug */,
+				BA5EE7FF1DFE1BCB009E1542 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BA5EE7E31DFE1BCB009E1542 /* Project object */;
+}

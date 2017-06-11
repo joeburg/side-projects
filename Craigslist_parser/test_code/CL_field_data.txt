@@ -1,0 +1,42 @@
+laundry fields:
+w/d in unit
+laundry in bldg
+laundry on site
+w/d hookups
+no laundry on site
+
+parking fields:
+carport
+attached garage
+detached garage
+off-street parking
+street parking
+valet parking
+no parking
+
+type of unit fields:
+apartment
+condo
+cottage/cabin
+duplex
+flat
+house
+in-law
+loft
+townhouse
+manufactured
+assisted living
+land
+
+
+
+fields between span: <span>some data</span>
+<span>cats are OK - purrr</span>
+<span>dogs are OK - wooof</span>
+<span>furnished</span>
+<span>no smoking</span>
+<span>wheelchair accessible</span>
+<span>apartment</span>
+<span>laundry on site</span>
+<span>attached garage</span>
+

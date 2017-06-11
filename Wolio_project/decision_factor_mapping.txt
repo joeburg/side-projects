@@ -1,0 +1,68 @@
+(social status)
+gender 
+	0	female
+	1	male
+age
+	0	we don’t know
+	1	preteen
+	2	high school
+	3	college
+	4	20’s
+	5	30’s
+	6	40-60
+	7	60+
+relationship
+	0	we don’t know
+	1	single
+	2	relationship
+	3	married
+kids 
+	0	no
+	1	yes
+
+money
+	0	We don’t know
+	1	Free
+	2	$
+	3	$$
+	4	$$$
+
+external factors
+	0	no
+	1	yes
+
+local network
+	0	we don’t know
+	1	none
+	2	still growing
+	3	established
+
+mood
+	0	we don’t know
+	1	relaxed
+	2	active
+	3	entertained
+	4	bored
+	5	social
+
+personality
+	0	we don’t know
+	1	sports
+	2	music
+	3	education
+	4	culture
+	5	politics
+	6	religion
+	7	family
+
+health
+	0	bad
+	1	good
+
+alone
+	0	with group
+	1	alone
+
+transportation
+	0	no
+	1	yes

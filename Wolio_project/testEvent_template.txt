@@ -1,0 +1,20 @@
+>EventID
+gender 0
+age 2 3 
+relationship 2
+kids 0 
+money 0
+externalfactors 0 
+localnetwork 1 
+mood 1
+personality 3
+health 1
+alone 0
+transportation 1
+#EventName  
+time_12pm
+date_Nov. 30
+location_Stanford University
+venue_GSB
+organizer_nobody
+description_a really cool event!

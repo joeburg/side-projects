@@ -1,0 +1,280 @@
+>001
+gender 1
+age 4
+relationship 2
+kids 0
+money 1
+externalfactors 0
+localnetwork 1 
+mood 1
+personality 2
+health 0
+alone 1
+transportation 0
+#Moulin Rouge @ Alexandria - Paris, India, Oh My!
+time_10:00 am
+date_Saturday, February 28
+location_2331 Carmel Dr, Palo Alto, California
+venue_Alexandria
+organizer_Max Song
+description_On the night of 28th as the moon shall dance with its crimson rays up the horizon, Alexandria – will explode into Festivities, Creation and Debauchery. A night to remember. Souls will be sold to the Daemons and nothing but the spirits shall prevail.. Amid such turmoil of the night, the knights of Alexandria will open their house to provide light and glow to the darkness of the world, hope in this hopeless world. 2 of our own, is heading East. Our Beloved Max Song is headed to France, and Michael Idris Merchant is headed to India, to enlighten the world with their sinister minds and benevolent heart.
+>002
+gender 0
+age 5
+relationship 2
+kids 0
+money 2
+externalfactors 0
+localnetwork 3 
+mood 5
+personality 6
+health 0
+alone 0
+transportation 0
+#Rabbit Grooming and Education!
+time_10:00am - 2:00pm
+date_Monday, February 23
+location_777 Santa Cruz Ave, Menlo Park, California 94025
+venue_The Pet Place
+organizer_Lisa Rockwell
+description_Rabbit educator Lisa Rockwell will be here to answer all your bunny questions and provide full grooming services. We will have ideas to keep your bunny entertained as well as educational material about health, longevity and complete care! Elsa and Anna, two adoptable buns will be there too! Please sign up by calling the store Phone:(650) 325-7387 or emailing lisalisarockwell@gmail.com Please bring your bunnies in carriers! Please allow at least 30 min per bunny!
+>003
+gender 0
+age 5 2
+relationship 2
+kids 0
+money 2
+externalfactors 0
+localnetwork 3 
+mood 5
+personality 6
+health 0
+alone 0
+transportation 0
+#UNPLUG SF 2015
+time_7:00pm - 12:30
+date_Friday, March 6
+location_435 Broadway St, San Francisco, California 94133
+venue_Broadway Studios San Francisco
+organizer_Levi Felix
+description_Digital Detox, Camp Grounded & Reboot are throwing our biggest device-free party of the year! Come Celebrate the National Day of Unplugging, leave your phone at home or check it at the door for a night of off-the-grid goodness. It’s like summer camp for adults, in the city, for one epic night of pure unadulterated fun. LIVE MUSIC: 9 Bands + Musicians (2 Stages): Con Brio // Midtown Social // cellojoe // La Pêche // Graham Patzner // The John Brothers Piano Company // Third Seven // Madeline Tasquin // The Gospel Flats
+>004
+gender 0 1
+age 3
+relationship 2 3
+kids 0
+money 2
+externalfactors 0
+localnetwork 3 
+mood 5
+personality 6
+health 0
+alone 0
+transportation 0
+#TEDxBerkeley 2015: Wisdom. Compassion. Connection.
+time_10:00am - 5:00pm
+date_Saturday, February 28
+location_2330 Stuart St, Berkeley, California 94720
+venue_Zellerbach Hall
+organizer_TEDxBerkeley
+description_On February 28, 2015, TEDxBerkeley will gather world-leading thinkers, makers, and doers from a multitude of disciplines for the 6th annual TEDxBerkeley: Wisdom. Compassion. Connection. More than 1000 students, UC Faculty, and community members from Berkeley and beyond will gather at Zellerbach Auditorium for a stimulating day of presentations, discussions, entertainment and art that will challenge you to revolutionize the way you think and see the world. PLEASE MAKE SURE TO BUY YOUR TICKETS AHEAD OF time_AS TICKETS WILL NOT BE SOLD AT THE DOOR: http://tinyurl.com/TEDxBerkeley2015Tickets Discounts are available to UC Berkeley faculty, staff, students, and alumni. Visit us at www.tedxberkeley.org for a preview of our speaker line-up and more information!
+>005
+gender 0 1
+age 5 6
+relationship 2 3
+kids 1
+money 2
+externalfactors 0
+localnetwork 3 
+mood 1
+personality 6
+health 0
+alone 1
+transportation 1
+#New Govardhana Family Picnic
+time_12:30am
+date_Saturday, July 19
+location_Vacation Isle
+venue_Vacation Isle
+organizer_San Diego Hare Krishna Temple
+description_On February 28, 2015, Come join in on the fun of our annual New Govardhana Family Picnic. Special Guest: Bhakti Sundar Goswami Featuring: All Day Kirtan, Multiple Krishna Homa Vedic Fire Ceremonies, a Delicious Vegetarian Prasadam Feast, a Jumpy House and games for the children, Volleyball, Tug-O-war, Sack Races, a Special Guest Speaker, Magician, TK's Mantra Rock Band and much more.
+>006
+gender 0 1
+age 5 6
+relationship 1 2
+kids 0
+money 3
+externalfactors 0
+localnetwork 3
+mood 1
+personality 5
+health 0
+alone 1
+transportation 1
+#Urban Place and Art Making
+time_07:00pm
+date_Tuesday, May 6
+location_SFMOMA
+venue_SFMOMA (San Francisco Museum of Modern Art)
+organizer_SFMOMA (San Francisco Museum of Modern Art)
+description_Join SFMOMA for an evening of discussion reflecting on the role of culture as an active voice in the construction and shaping of the contemporary city. Craig Dykers of Snøhetta will speak about his observations and his practice in relation to the expanded SFMOMA building. Cheryl Haines of San Francisco's FOR-SITE Foundation will explore the value of art in public space and Shannon Jackson of UC Berkeley will discuss the role of artists in making places vital, both locally and globally. Together, they will delve into issues vital to the future of San Francisco. Tickets→ http://sfmoma.me/urbanplace | #SFMOMAlive
+>007
+gender 0 1
+age 3 4 5
+relationship 1 2
+kids 0
+money 1
+externalfactors 0
+localnetwork 1
+mood 1
+personality 3
+health 0
+alone 1
+transportation 1
+#Celebrate ArtUP San Francisco in Bayview
+time_06:00 pm
+date_Tuesday, 24 February
+location_1439 Egbert St Unit A, San Francisco, California 94131
+venue_Laughing Monk Brewing
+organizer_Artup San Francisco
+description_ArtUp San Francisco brings the world's greatest muralists to desolate, industrial spaces to positively add to the aesthetic while also using their celebrity to increase foot traffic to shine a light on businesses leading to increased economic vitality. Bayview Hunter’s Point is a gritty, soulful neighborhood with characteristics similar to Alphabet City in New York, Brixton in London and its regional cousin, West Oakland, all utilizing creative capital to rebrand and encourage economic development. Come out to celebrate the first in a series of smaller activations that over the next year will build and culminate in a weekend long festival in Bayveiw (Jennings bet. Carroll and Egbert Streets).
+>008
+gender 0 1
+age 4 5 6
+relationship 1 2 3
+kids 1
+money 2
+externalfactors 0
+localnetwork 1
+mood 3
+personality 3
+health 0
+alone 1
+transportation 1
+#STAND UP COMEDY WITH RISING STARS in San Francisco
+time_10:00 pm
+date_Friday, March 20
+location_287 Ellsi Street, San Francisco, California
+venue_Comedy Club
+organizer_SF Stand-up Society 
+description_More than five comics converge at SF Down Town Comedy three times per week to create tons of laughter and mayhem courtesy in the city. Participating comics represent different nationalities and countries from around the world, including Africa, India, Trinidad and New Jersey (that&#39;s right, New Jersey). Many of the comics were born in the United States, some of the comics grew up in foreign co...
+>009
+gender 0 1
+age 6 7
+relationship 2 3
+kids 1
+money 4
+externalfactors 0
+localnetwork 3
+mood 3
+personality 3
+health 0
+alone 0
+transportation 1
+#Led Troyens
+time_1:00 pm
+date_Sunday, June 7
+location_301 South Van Ness, San Francisco, California 94102
+venue_War Memorial Opera House
+organizer_San Francisco Opera
+description_San Francisco Opera presents: Berlioz: Les troyens. Categories: Performing Arts. This event repeats on various days: Jun 7, Jun 12, Jun 16
+>010
+gender 0 1
+age 4 5
+relationship 1 2 3
+kids 0 1
+money 1
+externalfactors 0
+localnetwork 2
+mood 2
+personality 5
+health 0
+alone 0
+transportation 1
+#Beach Day
+time_1:00 pm
+date_Saturday, May 24
+location_1445 San Andreas Rd, Watsonville, CA 95076
+venue_The Beach
+organizer_C3 Church Silicon Valley
+description_Come join us Memorial Day weekend for a Beach Day! Bon fire, beach soccer, and so much fun with the entire C3 Church family. Bring your own blankets, food, beverages, and fun! Mark your calendars and join us! All are welcome! We can’t wait to relax & kick it on the beach with you all! Manresa State Beach: 1445 San Andreas Rd, Watsonville, CA 95076 *weather permitting*
+>011
+gender 0 1
+age 6 7
+relationship 0 2 3
+kids 0 1 
+money 1
+externalfactors 1 
+localnetwork 0 
+mood 1
+personality 2
+health 0
+alone 1
+transportation 0
+#Theranos Founder & CEO Elizabeth Holmes in Conversation with KQED’s Micheal Krasny 
+time_09:00 pm
+date_Tuesday Dec 09
+location_1401 N Shoreline Blvd, Mountain View, California 94043 
+venue_Computer History Museum
+organizer_Computer History Museum
+description_We’re very pleased to welcome KQED’s Michael Krasny back to our stage to moderate an in-depth conversation with Elizabeth Holmes, a woman who wants nothing less than to revolutionize the health care system using technology, creativity and innovation.
+>012
+gender 1 
+age 4 
+relationship 0 
+kids 0  
+money 1
+externalfactors 0 
+localnetwork 2 
+mood 5
+personality 2
+health 0
+alone 1
+transportation 0
+#Learn about the Future of the Internet
+time_07:30 pm - 08.30 pm
+date_Tuesday Feb 10
+location_Stanford building Gates 219
+venue_Gates 219
+organizer_Jason Teplitz and Kylie Jue
+description_TreeHacks and WICS's HackOverflow are co-hosting a workshop with Orange Silicon Valley, a tech development, strategy, and innovation lab in the Bay Area. The group is exploring experiences that are uniquely possible on one-gigabit-per-second, symmetrical, low-latency networks and is coming to Stanford to explore possibilities with you! 
+>013
+gender 1 
+age 4 
+relationship 0 
+kids 0  
+money 1
+externalfactors 0 
+localnetwork 2 
+mood 5
+personality 2
+health 0
+alone 1
+transportation 0
+#HackWeek #2: Developing Web Applications with WICS
+time_07:00 pm
+date_Tuesday Feb 17
+location_Stanford Gates 219 
+venue_Gates 219 Stanford
+organizer_Stanford ACM
+description_Want to learn how to develop web applications? As part of HackWeek, WICS is hosting a hands-on workshop where you will learn to create your own dynamic game of TicTacToe! The workshop will teach participants the basics of Javascript and will take place at Gates 219 at 7pm on Tuesday, Feb. 17. Dinner will be provided. No prior experience with web applications required! If we don’t see you at the workshop, we hope to see you at TreeHacks!
+>014
+gender 0 1 
+age 4 5 6
+relationship 0 
+kids 0 1   
+money 3
+externalfactors 0 1 
+localnetwork 0 
+mood 5
+personality 3
+health 0 
+alone 0 1
+transportation 1
+#2015 Oakland Bacon and Beer Festival
+time_02.30 pm - 05.00 pm
+date_Sunday Mar 15
+location_Broadway at Embarcadero W, Oakland, California 94607 
+venue_Jack London Square
+organizer_eatBoston
+description_The Oakland Bacon and Beer Festival is coming back for Year 2! On Sunday, March 15th from 2:30pm to 5:00pm at the Market Building at Jack London Square, @eat Boston, Bison Organic Beer and Oakland Grown present the second annual Oakland Bacon and Beer Festival as a fundraiser for Oakland Grown.

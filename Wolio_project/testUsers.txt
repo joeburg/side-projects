@@ -1,0 +1,42 @@
+>Joe
+personality money localnetwork mood health gender age relationship kids alone externalfactors transportation
+gender 1 
+age 4 
+relationship 2 
+kids 0 
+money 1
+externalfactors 0 
+localnetwork 2 
+mood 1
+personality 3
+health 1
+alone 0
+transportation 1
+>Rahim/Gisle
+transportation money age relationship gender kids localnetwork personality mood health alone externalfactors   
+gender 1 
+age 4 
+relationship 1 
+kids 0 
+money 1
+externalfactors 0 
+localnetwork 2 
+mood 1
+personality 3
+health 1
+alone 0
+transportation 0
+>Mary
+kids mood money personality localnetwork gender age relationship transportation health alone externalfactors 
+gender 0 
+age 5
+relationship 2 
+kids 1 
+money 2
+externalfactors 0 
+localnetwork 3 
+mood 3
+personality 7
+health 1
+alone 0
+transportation 1

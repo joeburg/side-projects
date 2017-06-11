@@ -1,0 +1,87 @@
+> # set working directory and load data 
+> setwd("/Users/joeburg/Dropbox/Stanford/Stanford_2014-2015/Spring_Quarter/CME_250/Homework/HW1")
+> data = read.table("Auto.data",header=T,na.strings="?")
+> predictors = names(data)
+> 
+> # deal with the missing values in the data set - remove cars with 'NA' values
+> data = na.omit(data)
+> 
+> # find the range, mean, and standard deviation of the quantitative predictors
+> for(i in 1:7) {
++   cat(predictors[i],' range: ',range(data[,i]),'\n')
++   cat(predictors[i],' mean: ',mean(data[,i]),'\n')
++   cat(predictors[i],' standard deviation: ',sd(data[,i]),'\n\n')
++ }
+mpg  range:  9 46.6 
+mpg  mean:  23.44592 
+mpg  standard deviation:  7.805007 
+
+cylinders  range:  3 8 
+cylinders  mean:  5.471939 
+cylinders  standard deviation:  1.705783 
+
+displacement  range:  68 455 
+displacement  mean:  194.412 
+displacement  standard deviation:  104.644 
+
+horsepower  range:  46 230 
+horsepower  mean:  104.4694 
+horsepower  standard deviation:  38.49116 
+
+weight  range:  1613 5140 
+weight  mean:  2977.584 
+weight  standard deviation:  849.4026 
+
+acceleration  range:  8 24.8 
+acceleration  mean:  15.54133 
+acceleration  standard deviation:  2.758864 
+
+year  range:  70 82 
+year  mean:  75.97959 
+year  standard deviation:  3.683737 
+
+> 
+> # remove the 10th-85th observations and recompute the range, mean, and sd
+> data_sub = data[-(10:85),]
+> for(i in 1:7) {
++   cat(predictors[i],' range: ',range(data_sub[,i]),'\n')
++   cat(predictors[i],' mean: ',mean(data_sub[,i]),'\n')
++   cat(predictors[i],' standard deviation: ',sd(data_sub[,i]),'\n\n')
++ }
+mpg  range:  11 46.6 
+mpg  mean:  24.40443 
+mpg  standard deviation:  7.867283 
+
+cylinders  range:  3 8 
+cylinders  mean:  5.373418 
+cylinders  standard deviation:  1.654179 
+
+displacement  range:  68 455 
+displacement  mean:  187.2405 
+displacement  standard deviation:  99.67837 
+
+horsepower  range:  46 230 
+horsepower  mean:  100.7215 
+horsepower  standard deviation:  35.70885 
+
+weight  range:  1649 4997 
+weight  mean:  2935.972 
+weight  standard deviation:  811.3002 
+
+acceleration  range:  8.5 24.8 
+acceleration  mean:  15.7269 
+acceleration  standard deviation:  2.693721 
+
+year  range:  70 82 
+year  mean:  77.14557 
+year  standard deviation:  3.106217 
+
+> 
+> # plotting relationships between predictors
+> plot(data$horsepower, data$mpg)
+> plot(data$weight, data$mpg)
+> plot(data$cylinders, data$horsepower)
+> plot(data$horsepower, data$acceleration)
+> plot(data$year, data$mpg)
+> plot(data$displacement, data$mpg)
+> plot(data$year, data$horsepower)

@@ -1,0 +1,7 @@
+https://www.unt.edu/rss/class/Jon/Benchmarks/CrossValidation1_JDS_May2011.pdf 
+
+1) use most relevant predictors
+2) impute the data
+3) run CART 
+4) run cross-validation
+5) run test data

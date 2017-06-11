@@ -1,0 +1,162 @@
+> # set working directory and load data 
+> setwd("/Users/joeburg/Dropbox/Stanford/Stanford_2014-2015/Spring_Quarter/CME_250/Homework/HW1")
+> data = read.table("Auto.data",header=T,na.strings="?")
+> predictors = names(data)
+> 
+> # deal with the missing values in the data set - remove cars with 'NA' values
+> data = na.omit(data)
+> 
+> # scatter plot matrix with all the variables
+> pairs(data)
+> 
+> # compute the matrix of correlations (exlcude name variable)
+> data_sub = subset(data,select=-name)
+> cor(data_sub)
+                    mpg  cylinders displacement horsepower     weight acceleration       year     origin
+mpg           1.0000000 -0.7776175   -0.8051269 -0.7784268 -0.8322442    0.4233285  0.5805410  0.5652088
+cylinders    -0.7776175  1.0000000    0.9508233  0.8429834  0.8975273   -0.5046834 -0.3456474 -0.5689316
+displacement -0.8051269  0.9508233    1.0000000  0.8972570  0.9329944   -0.5438005 -0.3698552 -0.6145351
+horsepower   -0.7784268  0.8429834    0.8972570  1.0000000  0.8645377   -0.6891955 -0.4163615 -0.4551715
+weight       -0.8322442  0.8975273    0.9329944  0.8645377  1.0000000   -0.4168392 -0.3091199 -0.5850054
+acceleration  0.4233285 -0.5046834   -0.5438005 -0.6891955 -0.4168392    1.0000000  0.2903161  0.2127458
+year          0.5805410 -0.3456474   -0.3698552 -0.4163615 -0.3091199    0.2903161  1.0000000  0.1815277
+origin        0.5652088 -0.5689316   -0.6145351 -0.4551715 -0.5850054    0.2127458  0.1815277  1.0000000
+> 
+> # perform multiple linear regression with mpg as the response and all other vars as predictors
+> model = lm(mpg ~ ., data=data_sub)
+> summary(model)
+
+Call:
+lm(formula = mpg ~ ., data = data_sub)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.5903 -2.1565 -0.1169  1.8690 13.0604 
+
+Coefficients:
+               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  -17.218435   4.644294  -3.707  0.00024 ***
+cylinders     -0.493376   0.323282  -1.526  0.12780    
+displacement   0.019896   0.007515   2.647  0.00844 ** 
+horsepower    -0.016951   0.013787  -1.230  0.21963    
+weight        -0.006474   0.000652  -9.929  < 2e-16 ***
+acceleration   0.080576   0.098845   0.815  0.41548    
+year           0.750773   0.050973  14.729  < 2e-16 ***
+origin         1.426141   0.278136   5.127 4.67e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.328 on 384 degrees of freedom
+Multiple R-squared:  0.8215,	Adjusted R-squared:  0.8182 
+F-statistic: 252.4 on 7 and 384 DF,  p-value: < 2.2e-16
+
+> 
+> # use * and : symbols to fit linear regression models with interaction effects
+> # note: Y ~ A*B -> Y = c0 + c1A + c2B + c3AB
+> # Y ~ A:B -> Y = c0 + c1AB
+> # so Y ~ A*B is equivalent to Y ~ A + B + A:B
+> # we will just use * since it contains :
+> model2 = lm(mpg ~ weight*acceleration + weight*horsepower, data=data_sub)
+> summary(model2)
+
+Call:
+lm(formula = mpg ~ weight * acceleration + weight * horsepower, 
+    data = data_sub)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.6974  -2.2321  -0.3123   1.8465  14.8452 
+
+Coefficients:
+                      Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          7.138e+01  8.055e+00   8.862  < 2e-16 ***
+weight              -1.200e-02  2.739e-03  -4.383 1.51e-05 ***
+acceleration        -3.728e-01  3.784e-01  -0.985    0.325    
+horsepower          -2.818e-01  3.450e-02  -8.169 4.49e-15 ***
+weight:acceleration  7.058e-05  1.269e-04   0.556    0.578    
+weight:horsepower    5.846e-05  8.765e-06   6.670 8.90e-11 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.927 on 386 degrees of freedom
+Multiple R-squared:  0.7501,	Adjusted R-squared:  0.7468 
+F-statistic: 231.7 on 5 and 386 DF,  p-value: < 2.2e-16
+
+> 
+> model3 = lm(mpg ~ weight*displacement + cylinders*displacement, data=data_sub)
+> summary(model3)
+
+Call:
+lm(formula = mpg ~ weight * displacement + cylinders * displacement, 
+    data = data_sub)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-13.2934  -2.5184  -0.3476   1.8399  17.7723 
+
+Coefficients:
+                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)             5.262e+01  2.237e+00  23.519  < 2e-16 ***
+weight                 -9.888e-03  1.329e-03  -7.438 6.69e-13 ***
+displacement           -7.351e-02  1.669e-02  -4.403 1.38e-05 ***
+cylinders               7.606e-01  7.669e-01   0.992    0.322    
+weight:displacement     2.128e-05  5.002e-06   4.254 2.64e-05 ***
+displacement:cylinders -2.986e-03  3.426e-03  -0.872    0.384    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.103 on 386 degrees of freedom
+Multiple R-squared:  0.7272,	Adjusted R-squared:  0.7237 
+F-statistic: 205.8 on 5 and 386 DF,  p-value: < 2.2e-16
+
+> 
+> # models with transformations like log(X), sqrt(X), X^2
+> model4 = lm(mpg ~ I(acceleration)^2 + log(displacement) + sqrt(weight) + sqrt(horsepower), data=data_sub)
+> summary(model4)
+
+Call:
+lm(formula = mpg ~ I(acceleration)^2 + log(displacement) + sqrt(weight) + 
+    sqrt(horsepower), data = data_sub)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-12.7916  -2.7076  -0.2542   2.0021  15.5613 
+
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)    
+(Intercept)       80.32255    4.05866  19.790  < 2e-16 ***
+I(acceleration)   -0.25318    0.12863  -1.968  0.04974 *  
+log(displacement) -3.88082    1.22667  -3.164  0.00168 ** 
+sqrt(weight)      -0.31415    0.09957  -3.155  0.00173 ** 
+sqrt(horsepower)  -1.59666    0.35999  -4.435  1.2e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.046 on 387 degrees of freedom
+Multiple R-squared:  0.734,	Adjusted R-squared:  0.7313 
+F-statistic:   267 on 4 and 387 DF,  p-value: < 2.2e-16
+
+> 
+> model5 = lm(mpg ~ log(weight) + log(displacement) + sqrt(horsepower), data=data_sub)
+> summary(model5)
+
+Call:
+lm(formula = mpg ~ log(weight) + log(displacement) + sqrt(horsepower), 
+    data = data_sub)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-12.1520  -2.4705  -0.3551   2.0717  15.4221 
+
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)    
+(Intercept)       150.1014    12.7501  11.773  < 2e-16 ***
+log(weight)       -12.8980     2.2605  -5.706 2.30e-08 ***
+log(displacement)  -2.5365     1.2087  -2.099   0.0365 *  
+sqrt(horsepower)   -1.0921     0.2391  -4.568 6.62e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.023 on 388 degrees of freedom
+Multiple R-squared:  0.7364,	Adjusted R-squared:  0.7343 
+F-statistic: 361.2 on 3 and 388 DF,  p-value: < 2.2e-16

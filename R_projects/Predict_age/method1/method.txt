@@ -1,0 +1,4 @@
+1) find most relevant predictors
+2) impute data
+3) run CART
+4) run test data

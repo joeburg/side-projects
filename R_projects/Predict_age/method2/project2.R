@@ -1,0 +1,71 @@
+library(base)
+library(Hmisc)
+library(tree)
+library(zoo)
+
+# set working directory
+setwd("/Users/joeburg/Dropbox/Stanford/Stanford_2014-2015/Spring_Quarter/CME_250/mini_project")
+
+# import data for fitting
+dataforFitting = read.csv("dataforFitting.csv", header=TRUE)
+
+# import data to predict
+predictThese = read.csv("predictThese.csv", header=TRUE)
+
+# combine data into single data frame (1-70 is training; 71-100 is test)
+data = rbind(dataforFitting[,-1], predictThese[,-1])
+
+# predictors to exclude 
+excludeVars = names(data) %in% c("CommuteMethod","ErrandsMethod","Field",
+                                 "Recycle","Siblings","LongestFlight","HarryPotter")
+newdata = data[!excludeVars]
+
+# fill in na with previous non-na value
+cleandata = na.locf(newdata)
+
+# add ages to data frame
+ageGuess = rep(24,30)
+cleandata$Age = c(dataforFitting$Age,ageGuess)
+
+# separate training data from test data
+fitting = cleandata[1:70,]
+preds = cleandata[71:100,]
+
+# compute tree
+set.seed(1)
+tree.age = tree(Age ~.,fitting)
+summary(tree.age)
+plot(tree.age)
+text(tree.age,pretty=0)
+tree.age
+
+# predict the ages
+pred.age = predict(tree.age,preds)
+pred.age
+
+# estimate the test error
+set.seed(2)
+train = fitting[1:50,]
+test = fitting[51:70,]
+tree.test = tree(Age ~.,train)
+age.test = fitting$Age[51:70]
+age.test
+tree.pred = predict(tree.test,test)
+table(tree.pred,age.test)
+
+# prune the tree using cross-validation
+set.seed(3)
+cv.age = cv.tree(tree.age)
+names(cv.age)
+cv.age
+
+prune.age = prune.tree(tree.age,best=2)
+plot(prune.age)
+text(prune.age,pretty=0)
+
+# use model to predict ages
+tree.pred = predict(prune.age, preds)
+tree.pred
+
+# write out predictions
+write.csv(pred.age,"predicted_ages.csv",row.names=FALSE)

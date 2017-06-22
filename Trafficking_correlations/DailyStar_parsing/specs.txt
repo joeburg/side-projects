@@ -1,0 +1,20 @@
+Articles with url type ‘http://archive.thedailystar.net/{}/index.htm' 
+(5/26/2003 - 8/14/2007) and articles with url type 
+‘http://www.thedailystar.net/newspaper?date={}' (12/02/2013-10/23/2015)
+
+- 6.21463 days to crawl entire archive
+- 223,479 articles processed 
+
+
+
+Articles with url type ‘http://archive.thedailystar.net/newDesign/archive.php?date={}'
+(8/15/2007 - 3/03/2013) and url type ‘http://archive.thedailystar.net/beta2/newspaper/?date={}' (3/06/2013 - 12/01/2013)
+
+- 4.5994 days to crawl the archive
+- 298,513 articles processed 
+
+
+
+Totals:
+- 10.8140 days to crawl site 
+- 521,992 articles processed 
